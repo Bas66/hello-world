@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Waterpas</string>
+    <string name="status_level">Waterpas!</string>
+    <string name="status_not_level">Niet waterpas</string>
+    <string name="status_calibrated">Gekalibreerd</string>
+    <string name="no_sensor">Geen versnellingsmeter gevonden</string>
+    <string name="btn_calibrate">Kalibreren</string>
+    <string name="label_x_axis">X-as</string>
+    <string name="label_y_axis">Y-as</string>
+    <string name="angle_x">%s°</string>
+    <string name="angle_y">%s°</string>
+</resources>
